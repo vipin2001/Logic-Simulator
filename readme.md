@@ -4,7 +4,7 @@ Input a circuit in the Netlist format given below followed by the input values. 
 
 ## NetList Format 
 ### Text File
-Primary Output
+Primary Output<br />
 Circuit Name
 Primary Input
 OUT_NODE GATE_TYPE IN_NODE
