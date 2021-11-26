@@ -1,0 +1,7 @@
+X
+CKT_NAME
+A B C D
+E AND A B
+F AND C D
+X OR E F
+END
