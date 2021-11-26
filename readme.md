@@ -35,4 +35,4 @@ P1_Value P2_Value P3_Value...
 .
 
 ### Ouputs Function
-Takes in a list of inputs and outputs a list of output corresponding to the input.# Logic-Simulator
+Takes in a list of inputs and outputs a list of output corresponding to the input.
